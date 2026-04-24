@@ -17,3 +17,5 @@ failure-inducing data input and interrupt interleaving schedule.
 - [DATA-Dataset](https://github.com/ITWOI/DATA/tree/main/Dataset) is a bug dataset based n defect4j, bugs-dot-jar, BugSwarm and the extended dataset from ye et. al [fse'14]. 
 
 - [DATA-FAM](https://github.com/ITWOI/DATA/tree/main/FAM) a framework leveraging Large Language Models to synthesize function summaries from source documentation.
+
+- [DATA-CSA](https://github.com/ITWOI/DATA/tree/main/CSA) a enhanced Clang Static Analyzer with support for generating and applying inter-procedural function summaries.
